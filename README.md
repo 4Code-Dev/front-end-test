@@ -1,13 +1,13 @@
 # Curadoria de filmes
 
-## Projeto de teste para vaga de desenvolvedor front-end no Viva Decora
+## Projeto de teste para vaga de desenvolvedor front-end na 4Code
 
-> :warning: **Processo aberto no momento**: o processo seletivo para *front-end developer* do Viva Decora está aberto. 
+> :warning: **Processo aberto no momento**: o processo seletivo para *front-end developer* da 4Code está aberto. 
 
-Esse é um repositório com as regras para criação do projeto para vaga de desenvolvedor(a) front-end no Viva Decora. 
+Esse é um repositório com as regras para criação do projeto para vaga de desenvolvedor(a) front-end na 4Code. 
 
-A vaga está aberta e é **para trabalho presencial no Viva Decora, localizado em São Paulo no bairro do Jardim Paulista.**
-
+A vaga está aberta e é **para trabalho presencial na 4Code, localizado em São Paulo no bairro do Jardim Paulista.**
+s
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/master/screenshots-readme/screenshot-desktop-inicial.png?raw=true">
@@ -16,7 +16,7 @@ A vaga está aberta e é **para trabalho presencial no Viva Decora, localizado e
 ## Tabela de conteúdos
 
 * [Instruções para entrega do projeto](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/#warning-instruções-para-entrega-do-projeto)
-* [Sobre o Viva Decora](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/#sobre-o-viva-decora)
+* [Sobre a 4Code](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/#sobre-o-viva-decora)
 * [Sobre o projeto: Curadoria de filmes.](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/#sobre-o-projeto-curadoria-de-filmes)
 * [Curadoria de filmes. Requisitos do MVP.](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/#curadoria-de-filmes-requisitos-do-mvp)
 * [Design do projeto](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork/#design-do-projeto)
@@ -33,15 +33,15 @@ A vaga está aberta e é **para trabalho presencial no Viva Decora, localizado e
 * Envie um email com o link para seu código para "jose.maciel [arroba] vivadecora.com.br "
 * Dúvidas sobre esse projeto podem ser perguntadas nas [issues](https://github.com/vivadecora/projeto-front-end-vivadecora-nao-fazer-fork//issues)
 
-## Sobre o Viva Decora:
+## Sobre a 4Code:
 
-O Viva Decora é uma empresa fundada em 2014, partiu  da necessidade de completar o ciclo do consumidor de móveis online.  
+A 4Code é uma empresa fundada em 2014, partiu  da necessidade de completar o ciclo do consumidor de móveis online.  
 
-O Viva Decora iniciou as atividades com o apoio da estrutura de back-office do VivaReal e depois ganhou equipes independentes de marketing B2B e B2C, operações, produto e engenharia, atualmente com 30 profissionais.  
+A 4Code iniciou as atividades com o apoio da estrutura de back-office do VivaReal e depois ganhou equipes independentes de marketing B2B e B2C, operações, produto e engenharia, atualmente com 30 profissionais.  
 
 Nossa plataforma de arquitetura e decoração online é voltada para ajudar os usuários a criar e comprar móveis e objetos para ambientes, baseado em recomendações e inspirações de diferentes arquitetos e designers. Temos mais de 5 milhões de visitas por mês  em nosso site e aplicativos e mais de 3 mil profissionais cadastrados. 
 
-O Viva Decora quer ajudar o consumidor em três fases distintas: inspiração, informação e compra. 
+A 4Code quer ajudar o consumidor em três fases distintas: inspiração, informação e compra. 
 
 **Em Dezembro de 2017 recebemos investimento do Grupo Duratex, para expandir nossas operações e nos consolidarmos como o maior marketplace de Decoração do Brasil**.
 
